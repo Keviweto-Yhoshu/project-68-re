@@ -1,0 +1,22 @@
+body{
+    background-color: lightgreen;
+    text-align: right;
+    color: red;
+}
+
+.announcement{
+    background-color: rgb(79, 18, 179);
+    text-align: center;
+    color: white;
+}
+
+.container{
+    background-color:yellow;
+    text-align: center;
+    color: darkblue;
+}
+
+#map{
+    text-align: center;
+    
+}
